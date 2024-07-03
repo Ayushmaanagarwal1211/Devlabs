@@ -39,7 +39,7 @@ const Contact = () => {
             className="contact-form__textarea"
           />
         </div>
-
+</form>
       <div className="lottie-container">
         <Lottie animationData={animationData} loop={true} style={{height:'500px'}}/>
       </div>
@@ -120,6 +120,7 @@ const Contact = () => {
         </div>
 
       </div>
+    </div>
     </div>
   );
 };

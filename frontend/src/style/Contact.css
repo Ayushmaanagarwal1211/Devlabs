@@ -80,7 +80,7 @@
 .social-link:hover {
   color: #5e4b4b;
 }
-=======
+.contact-form{
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 20px;

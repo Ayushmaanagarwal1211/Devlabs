@@ -284,12 +284,7 @@
     margin-top: 2rem;
 
   }
-  50% {
-    transform: translate(0, 25px);
-  }
-  100% {
-    transform: translate(0, -0px);
-  }
+
 }
 
 @media (min-width: 768px) {
